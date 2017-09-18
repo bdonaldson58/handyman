@@ -1,20 +1,9 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# Template Monster - Template Remake
 
-Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
+I am recreating the Handyman Template (https://www.templatemonster.com/demo/62262.html) in order
+to better my Front End skill set.
 
-If you are looking for the alpha6 version [click here](https://github.com/bradtraversy/bs4starter_alpha6)
-
-### Version
-
-1.0.0
-
-## Install Dependencies
-
-```bash
-npm install 
-```
-
-## Compile Sass & Run Dev Server
+##  How to Compile Sass & Run the Dev Server
 
 ```bash
 npm start
