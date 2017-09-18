@@ -1,0 +1,93 @@
+nav .nav-button {
+  float: right; }
+
+.showcase .carousel-img {
+  max-height: 700px;
+  width: 100%; }
+
+.showcase h1 {
+  font-size: 250%;
+  padding-top: 20%;
+  font-weight: bold;
+  text-align: center; }
+
+.options {
+  margin-top: 7%;
+  margin-bottom: 7%;
+  text-align: center; }
+  .options .d-inline {
+    margin-top: 0;
+    padding-top: 0;
+    width: 18%;
+    border: solid 8px #ddd; }
+  .options img {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 50%; }
+  .options h4 {
+    font-weight: bold;
+    font-size: 200%;
+    text-transform: uppercase;
+    padding: 0;
+    margin-top: 5px;
+    color: #F39C12; }
+
+.about-us {
+  background: #ddd;
+  text-align: center; }
+  .about-us .values {
+    padding-top: 5%; }
+    .about-us .values h3 {
+      font-weight: bold; }
+    .about-us .values button {
+      font-weight: bold;
+      font-size: 75%;
+      padding: 10px 40px 10px 40px; }
+    .about-us .values .ind-stats {
+      border-right: 1px solid #777; }
+  .about-us .construction-pic {
+    background: url("../img/construction.jpg") 125px no-repeat;
+    min-height: 400px;
+    margin-left: 0; }
+  .about-us .numbers {
+    background: #444;
+    color: #777;
+    width: 130%;
+    text-align: center;
+    padding-left: 10%;
+    padding-top: 5%;
+    margin-top: 10%;
+    padding-bottom: 10%; }
+  .about-us .number {
+    font-size: 400%; }
+  .about-us .number-text {
+    color: #fff;
+    font-size: 100%; }
+
+.testimonials .ind-testimonial {
+  background: #EBF5FB; }
+
+.testimonials .karen-pic {
+  background: url("../img/karen.jpg") no-repeat;
+  min-height: 300px; }
+
+.testimonials .small-bio-pic {
+  width: 30%;
+  float: left; }
+
+.blog-post h3 {
+  font-size: 350%; }
+
+.blog-post .card .col-sm-2 {
+  background-color: green;
+  margin: 0; }
+
+.contact-form {
+  background-color: #444;
+  color: #fff;
+  margin-left: 0;
+  padding-left: 0; }
+  .contact-form #map {
+    height: 700px;
+    width: 100%; }
